@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""
+Module to fetch and display the top ten hot posts of a given subreddit using Reddit API.
+"""
+
 import requests
 
 def top_ten(subreddit):
